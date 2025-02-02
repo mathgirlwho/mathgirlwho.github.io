@@ -1,0 +1,11 @@
+title: My Data Science Blog
+description: A blog showcasing data science projects and ideas
+baseurl: "" # The base URL of your site, leave empty for root
+url: "https://mathgirlwho.github.io" # Your GitHub Pages URL
+theme: jekyll-theme-cayman # You can choose another theme if preferred
+
+collections:
+  posts:
+    output: true
+
+markdown: kramdown
